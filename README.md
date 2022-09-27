@@ -6,9 +6,13 @@ This study deals with quantitative balancing and user segmentation in a competit
 
 Technologies used : MySQL, Python (Scikit-Learn, Pandas, Numpy)
 Things to know before reading :
+
 1.	RPGLite
+
 An experimental turn-based PvP game developed by the University of Glasgow as a study on game balancing. Players compete by picking 2 out of 8 classes with unique mechanics. This choice made by the players is referred to as ‘character pairs’. RPGLite had around 300+ players that played around 5800 games, and was serviced for a period of 2 months.
+
 2.	Competitive Balance 
+
 A concept that makes competitive games work. In Rock-Paper-Scissors, all options are valid because they have the equal chance of winning/losing/drawing. When the concepts get more abstract or complex, like ‘Warrior-Mage-Rogue’ (and their trope variations like ‘Warlock’, ’Barbarian’, ’Ninja’, etc.), then there could be many other variables in play. Competitive video games such as League of Legends or DOTA 2 are sensitive about this concept of Competitive Balance, as they must maintain the esports scene fresh and prevent users from dropping out due to repetition.
 
 # Research Questions and Answers:
